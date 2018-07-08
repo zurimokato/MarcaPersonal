@@ -92,7 +92,7 @@ textarea {
 
 .text-me {
     margin-top: 77px;
-    
+
 }
 
 .row {
@@ -244,6 +244,14 @@ html body div.container div#contact.row div.col-xs-12.col-sm-6 form.w3-container
     padding-right: 20px; /* Add some right padding */
     line-height: 40px; /* Set the line-height to center the text inside the skill bar, and to expand the height of the container */
     color:black; /* White text color */
+}
+
+#diferencial{
+  font-family: 'Oxygen Mono', monospace;
+  font-size: 20px;
+  opacity: .5;
+  text-align: left;
+  background-color: #ddd;
 }
 
 
