@@ -27,9 +27,18 @@ body {
 #contact {
     background: white;
 }
+.tiDif{
+  text-align: center;
+  font-weight: : bold;
+  font-size: 30px;
 
+}
 .navbar-default .navbar-brand {
 	color: white;
+}
+
+.centrar{
+  text-align: center;
 }
 
 html body div.container div#portfolio.row div.col-xs-12 h3, div#skills.row div.col-xs-12 h3, div#contact.row div.col-xs-12 h3 {
